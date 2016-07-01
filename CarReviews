@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang='en-us'>
+<head>
+  <title>Yibo Liu (Variable)</title>
+  <meta name='keywords' content="Yibo Liu, UW-Madison, computer science,
+  statistics, data science, machine learning">
+  <meta name='description' content="Car Reviews">
+  <meta name='viewport' content="width=device-width, initial-scale=1">
+  <meta name='charset' content="utf-8">
+  <meta name='author' content="Yibo Liu">
+  <meta http-equiv="refresh" content="30">
+  <style>
+    body {
+      background-image: url("f 488.jpg");
+      background-size: 100% 100%;
+    }
+    a {
+      background-color: white;
+      color: black;
+    }
+    p {
+      background-color: white;
+      color: black;
+      width: 300px;
+    }
+  </style>
+</head>
+<body>
+  <p>Beyond my love of computer science and statistics, I am fascinated by the
+    world of cars. For my interest, I review cars with my friend through voice
+    records(in Chinese) on <a href="http://www.lizhi.fm/1970610/">lizhi.fm</a>.
+  </p>
+  <h1>Updates</h1>
+  <p><a href="http://www.lizhi.fm/1970610/2525789296330255878">Mercedes Benz</a></p>
+  <p><a href="http://www.lizhi.fm/1970610/2525951826481384966">BMW (Part 1)</a></p>
+  <p><a href="http://www.lizhi.fm/1970610/2525952103506776070">BMW (Part 2)</a></p>
+  <p><a href="http://www.lizhi.fm/1970610/2525955039116925446">2016 Chicago AutoShow (Part 1)</a></p>
+  <p><a href="http://www.lizhi.fm/1970610/2525955217358069254">2016 Chicago AutoShow (Part 2)</a></p>
+  <p><a href="http://www.lizhi.fm/1970610/2525955311847350278">2016 Chicago AutoShow (Part 3)</a></p>
+  <p><a href="http://www.lizhi.fm/1970610/2528872193792676870">Audi (Part 1)</a></p>
+  <p><a href="http://www.lizhi.fm/1970610/2528872137958101510">Audi (Part 2)</a></p>
+  <p><a href="http://www.lizhi.fm/1970610/2528872228152415750">Audi (Part 3)</a></p>
+  <p><a href="http://www.lizhi.fm/1970610/2533744909352546822">Merging Of Auto Brands</a></p>
+  <p><a href="http://www.lizhi.fm/1970610/2537119130150804486">How Are Cars Named</a></p>
+  <p><a href="http://www.lizhi.fm/1970610/2537119697086492678">Studying Abroad Is In Fact Something Tough</a></p>
+</body>

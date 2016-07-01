@@ -1,0 +1,15 @@
+<!doctype html>
+<html lang='en-us'>
+<head>
+  <title>Yibo Liu (Variable)</title>
+  <meta name='keywords' content="Yibo Liu, UW-Madison, computer science, statistics, data science, machine learning">
+  <meta name='description' content="Yibo Liu's computer programs">
+  <meta name='viewport' content="width=device-width, initial-scale=1">
+  <meta name='charset' content="utf-8">
+  <meta name='author' content="Yibo Liu">
+  <meta http-equiv="refresh" content="30">
+</head>
+<body>
+  <p>a <a href="/Play2048.java">simulation</a> of <a href="http://2048game.com/">2048game</a></p>
+  <p>Some <a href="/Solutions.java">solutions to questions on <a href="https://leetcode.com/">leetcode</a></p>
+</body>

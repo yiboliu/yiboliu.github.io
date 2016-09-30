@@ -11,46 +11,80 @@
   <meta http-equiv="refresh" content="30">
   <style>
     body{
-      background-image: url("UW.jpg");
-      background-size: 100% 100%;
+      background-image: url("selfie2.jpg"), url("forest.jpg");
+      background-size: auto 100%;
+      background-repeat: no-repeat, no-repeat;
+      background-position: right center;
     }
     html{
       height: 100%;
     }
     p{
-      width: 400px;
-      background-color: black;
+      width: 500px;
       color: white;
-      font-family: "Lobster", serif;
+      font-family: "Cursive";
+      font-size: 180%;
+    }
+    a:link {
+      color: white;
+      text-decoration: none;
+    }
+    a:visited{
+      color: white;
+      text-decoration: none;
+    }
+    a:hover{
+      color: blue;
+      text-decoration: underline;
+    }
+    part2 {
+      position: absolute;
+      bottom: 20px;
+      left: 150px;
+      background-color: black;
+      opacity: 0.6;
+      width: 500px;
+    }
+    part1 {
+      position: absolute;
+      top: 20px;
+      left: 150px;
+      background-color: black;
+      opacity: 0.6;
+      width: 500px;
     }
   </style>
 </head>
 <body>
+<part1>
   <p>I began my college adventure in <a href="http://www.wisc.edu/">University
-    of Wisconsin-Madison</a> in August, 2014.</p>
-  <p>I chose <a href="https://www.cs.wisc.edu/">computer science</a> and
-    <a href="https://www.stat.wisc.edu/">statistics</a> as my majors.</p>
-  <p>Since I think the combination of these two majors helps launch my career
-    into several exciting fields, including
+    of Wisconsin-Madison</a> in August, 2014,
+    majoring in <a href="https://www.cs.wisc.edu/">computer science</a> and
+    <a href="https://www.stat.wisc.edu/">statistics</a>.</p>
+  <p>I am excited to explore fields including
     <a href="https://en.wikipedia.org/wiki/Artificial_intelligence">
       Artificial Intelligence</a>,
     <a href="http://www.webopedia.com/TERM/B/big_data_analytics.html">
       Big Data Analytics</a>,
     <a href="https://www.ibm.com/cloud-computing/what-is-cloud-computing">
-      Cloud computing</a>,
+      Cloud Computing</a>,
     <a href="https://en.wikipedia.org/wiki/Linear_programming">
       Linear Programming</a> and
     <a href="https://en.wikipedia.org/wiki/Machine_learning">
       Machine Learning</a>.
-    <p>In addition to that, I am also highly interested in database
+  </p>
+</part1>
+<part2>
+  <p> In addition to that, I am also highly interested in database
       administration, comoputer networks and information security.
       My interest in these areas boosted after reading the novel by Dan Brown
       called "
       <a href="http://www.danbrown.com/digital-fortress/">Digital Fortress</a>"
   </p>
-  <p>You can check out <a href="/ComputerPrograms.html">computer science</a>
-    programs, and <a href="/StatisticsPrograms.html">statistics</a>
-     programs in my website.
+  <p> You can check out <a href="ComputerPrograms.html">computer science</a>
+      programs, and <a href="StatisticsPrograms.html">statistics</a>
+      programs in my website.
   </p>
+</part2>
 </body>
 </html>
